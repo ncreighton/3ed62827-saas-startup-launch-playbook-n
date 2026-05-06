@@ -1,2 +1,30 @@
-# 3ed62827-saas-startup-launch-playbook-n
-SaaS Startup Launch Playbook Notion Template — a professional-grade notion template for saas startups professionals. Built for production use with comprehensive documentation, instant setup, and regular updates included. Save hours of development time with this ready-to-deploy solution. Includes setup guide, configuration templates, and best practi
+# SaaS Startup Launch Playbook Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM5kD4eP2k4aNO7jCcZb0G)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM5kD4eP2k4aNO7jCcZb0G)
+- [Buy on Whop](https://whop.com/saas-startup-launch-playbook-notion-template)
+
